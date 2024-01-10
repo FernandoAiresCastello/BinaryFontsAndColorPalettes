@@ -1,3 +1,5 @@
+# Binary Fonts and Color Palettes
+
 This is a collection of files containing the definition of character fonts and color palettes from various classic computers and videogame consoles.
 
 All files are in plain-text format where each line represents a character (in font files) or color (in palette files).
